@@ -1,5 +1,3 @@
-عالی. این نسخه **کوتاه، حرفه‌ای و مناسب GitHub** است 👌
-می‌تونی **عیناً به‌عنوان `README.md` ذخیره‌اش کنی**
 # Customer Intelligence Platform (NLP + LLM)
 
 An **end-to-end Customer Intelligence system** built on ~180k Amazon product reviews to extract **actionable business insights** using NLP, topic modeling, sentiment analysis, and LLM-based labeling.
